@@ -9,4 +9,4 @@ Once 3 in a row, column, or diagonal is reached by either player, or the board i
 
 Once the game ends, score is added based on the game's outcome, and players are asked to play again
 
-Worked on by Peyton WInder and Engels Olivero De La Cruz
+Worked on by Peyton Winder @PMW3 and Engels Olivero De La Cruz
